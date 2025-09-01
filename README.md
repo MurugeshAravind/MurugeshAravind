@@ -13,37 +13,29 @@
 ---
 
 ### 🛠 Tech Stack
-!React
-!JavaScript
-![TypeScript](https!CSS3
-!TailwindCSS
-!Node.js
-!Spring Boot
-
----
-
-### 📈 GitHub Stats
-!Aravind's GitHub stats
-!Top Languages
+<p align="center">
+  https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+  https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
+  https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+</p>
 
 ---
 
 ### 🔗 Featured Projects
-#### 1. OMDB_Movie_Search ⭐
+#### 1. OMDB_Movie_Search
 _Search movies through external API call using React + TypeScript._
 - **Tech Stack:** React, TypeScript, API Integration
 - **Features:** Search movies, fetch details from OMDB API
-- **Stars:** ⭐ 1
 
-#### 2. react-router-prompt_demo ⭐
+#### 2. react-router-prompt_demo
 _Demo project showcasing React Router Prompt._
 - **Tech Stack:** React, TypeScript
-- **Stars:** ⭐ 1
 
-#### 3. zustand-demo ⭐
-_State management demo using Zustand._
-- **Tech Stack:** React, Zustand, TypeScript
-- **Stars:** ⭐ 1
+#### 3. [zustand-demo](https://github.com/MurugeshAravind/zustandech Stack:** React, Zustand, TypeScript
 
 ---
 
