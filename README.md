@@ -1,42 +1,63 @@
-# Hi there 👋 I'm Aravind
+# 👋 Hi there, I'm Aravind
 
-🚀 **Senior Frontend Developer | React Specialist | UI/UX Enthusiast**
-
----
-
-### 👨‍💻 About Me
-- 💼 Currently working as **Senior Frontend Developer**
-- 🌱 Exploring **Node.js**, **Spring Boot**, and **System Design** to become a Full-Stack Engineer
-- 💬 Ask me about **React, JavaScript, Performance Optimization, and Frontend Architecture**
-- 📫 Connect with me: LinkedIn | Portfolio
+🚀 **Senior Frontend Developer | React Specialist | UI/UX Enthusiast**  
+🎯 Passionate about building performant, accessible, and pixel-perfect web experiences.
 
 ---
 
-### 🛠 Tech Stack
+## 👨‍💻 About Me
+
+- 💼 Currently working as a **Senior Frontend Developer**
+- 🔍 On a journey to become a **Full-Stack Engineer** — diving into **Node.js**, **Spring Boot**, and **System Design**
+- 💬 Love talking about **React**, **JavaScript**, **Performance Optimization**, and **Frontend Architecture**
+- 🌐 Always exploring new tools, patterns, and best practices to level up
+- 🔗 Let's connect: https://in.linkedin.com/in/murugesh-aravind-0ab64847
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-  https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-  https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-  https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-  https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-  https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
-  https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,spring" alt="Tech StackProjects" />
 </p>
 
 ---
 
-### 🔗 Featured Projects
-#### 1. OMDB_Movie_Search
-_Search movies through external API call using React + TypeScript._
-- **Tech Stack:** React, TypeScript, API Integration
-- **Features:** Search movies, fetch details from OMDB API
+### 🌟 OMDB Movie Search  
 
-#### 2. react-router-prompt_demo
-_Demo project showcasing React Router Prompt._
-- **Tech Stack:** React, TypeScript
+🎬 **Search movies via external API using React + TypeScript**  
 
-#### 3. [zustand-demo](https://github.com/MurugeshAravind/zustandech Stack:** React, Zustand, TypeScript
+**Tech:** React, TypeScript, API Integration  
+
+✅ **Features:**
+- Search movies by title
+- Fetch and display details from the OMDB API
 
 ---
 
-⭐ **Fun Fact:** I love building **pixel-perfect UIs** and optimizing for **speed & accessibility**.
+### 🌟 React Router Prompt Demo  
+
+🔄 **Navigation guard demo using React Router Prompt**
+
+**Tech:** React, TypeScript  
+
+✅ **Highlights:**
+- Prevents accidental navigation
+- Custom confirmation dialogs
+
+---
+
+### 🌟 Zustand State Management Demo  
+
+📦 **Lightweight state management with Zustand**  
+**Tech:** React, Zustand, TypeScript  
+
+✅ **Highlights:**
+- Simple and scalable global state
+- Minimal boilerplate
+
+---
+
+## ✨ Fun Fact
+
+I’m obsessed with crafting **pixel-perfect UIs** and squeezing out every bit of performance for **speed & accessibility** 🚀
