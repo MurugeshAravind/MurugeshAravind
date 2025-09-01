@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Aravind
 
-<!--
-**MurugeshAravind/MurugeshAravind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior Frontend Developer | React Specialist | UI/UX Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 💼 Currently working as **Senior Frontend Developer**
+- 🌱 Exploring **Node.js**, **Java**, **Spring Boot**, and **System Design** to become a Full-Stack Engineer
+- 💬 Ask me about **React, Typescript, JavaScript, Performance Optimization, and Frontend Architecture**
+- 📫 Connect with me: arvindh.balasubramaniam@gmail.com
+
+---
+
+### 🛠 Tech Stack
+!React
+!JavaScript
+!TypeScript
+!HTML5
+![SS3
+!TailwindCSS
+![Node.js](https://img.shields.io/badge/-Node.js-Aravind's GitHub stats
+!Top Languages
+
+---
+
+### 🔗 Featured Projects
+- **Project 1** – Description (React + Tailwind)
+- **Project 2** – Description (Full-Stack)
+- **Project 3** – Description (Performance-focused)
+
+---
+
+⭐ **Fun Fact:** I love building **pixel-perfect UIs** and optimizing for **speed & accessibility**.
