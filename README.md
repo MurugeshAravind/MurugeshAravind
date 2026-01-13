@@ -49,7 +49,8 @@
 
 ### 🌟 Zustand State Management Demo  
 
-📦 **Lightweight state management with Zustand**  
+📦 **Lightweight state management with Zustand**
+
 **Tech:** React, Zustand, TypeScript  
 
 ✅ **Highlights:**
@@ -59,7 +60,9 @@
 ---
 
 ### 🌟 Redux Toolkit State Management Demo
+
 📦 **Modern state management with Redux Toolkit**
+
 **Tech:** React, Redux Toolkit, TypeScript
 
 ✅ **Highlights:**
