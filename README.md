@@ -58,6 +58,19 @@
 
 ---
 
+### 🌟 Redux Toolkit State Management Demo
+📦 **Modern state management with Redux Toolkit**
+**Tech:** React, Redux Toolkit, TypeScript
+
+✅ **Highlights:**
+
+- Simplified Redux setup with configureStore
+- Built-in support for Immer (immutable updates)
+- Powerful utilities like createSlice and createAsyncThunk
+- Great for scalable and complex apps
+
+---
+
 ## ✨ Fun Fact
 
 I’m obsessed with crafting **pixel-perfect UIs** and squeezing out every bit of performance for **speed & accessibility** 🚀
