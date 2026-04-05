@@ -1,79 +1,74 @@
-# 👋 Hi there, I'm Aravind
+# 👋 Hi, I'm Murugesh Aravind
 
-🚀 **Senior Frontend Developer | React Specialist | UI/UX Enthusiast**  
-🎯 Passionate about building performant, accessible, and pixel-perfect web experiences.
+🚀 **Senior Frontend Developer | Full-Stack Engineer (React + AWS Serverless)**  
+📍 Bengaluru, India · 🔗 [LinkedIn](https://in.linkedin.com/in/murugesh-aravind-0ab64847)
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a **Senior Frontend Developer**
-- 🔍 On a journey to become a **Full-Stack Engineer** — diving into **Node.js**, **Spring Boot**, and **System Design**
-- 💬 Love talking about **React**, **JavaScript**, **Performance Optimization**, and **Frontend Architecture**
-- 🌐 Always exploring new tools, patterns, and best practices to level up
-- 🔗 Let's connect: https://in.linkedin.com/in/murugesh-aravind-0ab64847
+- 💼 **Senior Frontend Engineer @ Cognizant** — 8+ years building large-scale banking and enterprise platforms
+- ⚛️ Specializing in **React**, **TypeScript**, **accessibility (WCAG)**, and **performance optimization**
+- ☁️ Building full-stack serverless apps on **AWS** (Amplify, Cognito, Lambda, API Gateway, DynamoDB)
+- 🎓 **AWS Certified Cloud Practitioner** · 🎯 Pursuing **AWS Certified Developer Associate (DVA-C02)**
+- 🧪 Strong in **testing** — Playwright, Jest, React Testing Library · Reduced CI build time from ~30min → ~7min
+- 🌱 Deepening expertise in **AWS CI/CD**, **CloudFormation/SAM**, and **cloud-native architecture**
+
+---
+
+## 🏆 Featured Project — Advanced Tic-Tac-Toe *(Serverless Architecture Demo)*
+
+> A fully architected, deployed serverless application demonstrating real-world AWS + React engineering — built to showcase cloud-native patterns and end-to-end full-stack development.
+
+| Layer | Stack |
+|---|---|
+| **Frontend** | React 19, TypeScript, Vite |
+| **Auth** | AWS Cognito (user pools, JWT) |
+| **API** | AWS API Gateway + AWS Lambda |
+| **Database** | AWS DynamoDB |
+| **Deployment** | AWS Amplify with CI/CD pipeline |
+
+✅ End-to-end serverless architecture · ✅ Automated deployments · ✅ Secure auth flow · ✅ Real-time game state
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,spring" alt="Tech StackProjects" />
-</p>
+[![Tech Stack](https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,nodejs,aws,vite,git)](https://skillicons.dev)
 
 ---
 
-### 🌟 OMDB Movie Search  
+## 📂 Other Projects
 
-🎬 **Search movies via external API using React + TypeScript**  
+### 🎮 Advanced Tic-Tac-Toe *(Serverless Architecture Demo)*
+Fully architected serverless app with React 19 + TypeScript frontend and a complete AWS backend — built to demonstrate cloud-native development patterns end-to-end. *(See Featured Project above for full stack breakdown.)*
 
-**Tech:** React, TypeScript, API Integration  
+### 🌐 Portfolio — [aravind.is-a.dev](https://aravind.is-a.dev/)
+Personal developer portfolio built with **Next.js + Tailwind CSS** — showcasing 8+ years of frontend engineering across banking platforms, enterprise dashboards, and modern React architecture.
 
-✅ **Features:**
-- Search movies by title
-- Fetch and display details from the OMDB API
+### 📦 Zustand State Management Demo
+**React + Zustand + TypeScript** — Lightweight, scalable global state with minimal boilerplate.
 
----
-
-### 🌟 React Router Prompt Demo  
-
-🔄 **Navigation guard demo using React Router Prompt**
-
-**Tech:** React, TypeScript  
-
-✅ **Highlights:**
-- Prevents accidental navigation
-- Custom confirmation dialogs
+### 📦 Redux Toolkit Demo
+**React + Redux Toolkit + TypeScript** — Modern Redux with `createSlice`, `createAsyncThunk`, and Immer under the hood.
 
 ---
 
-### 🌟 Zustand State Management Demo  
+## 📊 GitHub Stats
 
-📦 **Lightweight state management with Zustand**
-
-**Tech:** React, Zustand, TypeScript  
-
-✅ **Highlights:**
-- Simple and scalable global state
-- Minimal boilerplate
+![Murugesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurugeshAravind&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurugeshAravind&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-### 🌟 Redux Toolkit State Management Demo
+## 🎯 What I'm Working On
 
-📦 **Modern state management with Redux Toolkit**
-
-**Tech:** React, Redux Toolkit, TypeScript
-
-✅ **Highlights:**
-
-- Simplified Redux setup with configureStore
-- Built-in support for Immer (immutable updates)
-- Powerful utilities like createSlice and createAsyncThunk
-- Great for scalable and complex apps
+- 🏗️ Evolving my **Advanced Tic-Tac-Toe** app with more AWS services (SQS, EventBridge, CloudWatch)
+- 📚 Preparing for **AWS DVA-C02** certification
+- 🔍 Deepening expertise in **serverless patterns**, **observability**, and **infrastructure as code (SAM/CloudFormation)**
 
 ---
 
 ## ✨ Fun Fact
 
-I’m obsessed with crafting **pixel-perfect UIs** and squeezing out every bit of performance for **speed & accessibility** 🚀
+I'm obsessed with crafting **pixel-perfect UIs** and squeezing out every bit of performance — but now I also care deeply about the infrastructure that runs them. Frontend + Cloud = the whole picture. 🚀
