@@ -54,16 +54,11 @@ Personal developer portfolio built with **Next.js + Tailwind CSS** — showcasin
 
 ---
 
-## 📊 GitHub Stats
-
-![Murugesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MurugeshAravind&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MurugeshAravind&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 ## 🎯 What I'm Working On
 
-- 📚 Preparing for **AWS DVA-C02** certification
+- 📚 Preparing for **AWS Certified Developer Associate (DVA-C02)** certification
 - 🔍 Deepening expertise in **serverless patterns**, **observability**, and **infrastructure as code (SAM/CloudFormation)**
 
 ---
