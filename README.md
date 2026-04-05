@@ -63,7 +63,6 @@ Personal developer portfolio built with **Next.js + Tailwind CSS** — showcasin
 
 ## 🎯 What I'm Working On
 
-- 🏗️ Evolving my **Advanced Tic-Tac-Toe** app with more AWS services (SQS, EventBridge, CloudWatch)
 - 📚 Preparing for **AWS DVA-C02** certification
 - 🔍 Deepening expertise in **serverless patterns**, **observability**, and **infrastructure as code (SAM/CloudFormation)**
 
