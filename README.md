@@ -41,7 +41,8 @@
 ## 📂 Other Projects
 
 ### 🎮 Advanced Tic-Tac-Toe *(Serverless Architecture Demo)*
-Fully architected serverless app with React 19 + TypeScript frontend and a complete AWS backend — built to demonstrate cloud-native development patterns end-to-end. *(See Featured Project above for full stack breakdown.)*
+Fully architected serverless app with React 19 + TypeScript frontend and a complete AWS backend — built to demonstrate cloud-native development patterns end-to-end. *(See Featured Project above for full stack breakdown.)*![Recording 2026-04-05 at 16 38 25](https://github.com/user-attachments/assets/e1f6c935-0c01-4a20-8dff-0a55be97f52f)
+
 
 ### 🌐 Portfolio — [aravind.is-a.dev](https://aravind.is-a.dev/)
 Personal developer portfolio built with **Next.js + Tailwind CSS** — showcasing 8+ years of frontend engineering across banking platforms, enterprise dashboards, and modern React architecture.
