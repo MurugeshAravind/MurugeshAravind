@@ -56,8 +56,9 @@
 
 **Testing, Cloud and Tools**
 
-[![Tools](https://skillicons.dev/icons?i=jest,playwright,aws,git,github,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=jest,aws,git,github,vscode)](https://skillicons.dev)
 
+**Testing:** Jest · React Testing Library · Playwright  
 **AI:** Claude API · Gemini ADK · LangChain · MCP · Cursor · GitHub Copilot
 
 ---
